@@ -1,4 +1,4 @@
-# Atividades-LP1
+# Atividades - LP1
 Exercícios relacionados a matéria Linguagem de programação 1 - BD 2 SEM
 # Exercicios E2 e E3 - Linguagem de programação 1 
 a) Para cada imagem ou vídeo apresentados a seguir, elaborar uma classe Java contendo:
